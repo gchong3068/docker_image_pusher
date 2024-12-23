@@ -8,5 +8,6 @@ apache/rocketmq:5.3.0
 nacos/nacos-server:v2.3.2
 elasticsearch:7.3.0
 kagurazakanyaa/palworld
+jokerwho/palworld-server-tool
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
